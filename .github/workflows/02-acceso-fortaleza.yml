@@ -9,9 +9,25 @@ jobs:
         steps:
              - name: El agente llega a la fortaleza
                run: |
-                echo "Agente ${GITHUB_ACTOR} ha llegado a la fortaleza prohibida"
+                echo "Agente ${GITHUB_ACTOR}} ha llegado a la fortaleza prohibida"
                 echo ""
                 echo "Buscar los archivos de la legion"
                 ls -la 
                 echo ""
                 echo "X pero que paso no hay nada"
+
+             - name: 'braniac desbloquea la boveda'
+               uses: actions/checkout@v4
+
+             - name: 'ahora si, vamos a ver los planes'
+               run: |
+                    echo "Buscar los archivos de la legion"
+                    ls -la
+                    echo "Funciona !!!"
+                    echo ""
+                    echo "Planes: "
+                    ls planes/
+                    echo "villanos"
+                    ls villanos/
+                    echo "Inteligencia"
+                    ls inteligencia/
