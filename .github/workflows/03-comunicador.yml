@@ -12,7 +12,20 @@ on:
           - "Joker"
           - "Lex Luthor"
           - "Darth Vader"
-          
+
+      mensaje:
+        description: "mensaje para el consejo?"
+        required: true
+        default: "la mision fue un exito"
+
+      prioridad:
+        description: "nivel de prioridad?"
+        required: true
+        type: choice
+        options:
+          - "normal"
+          - "alta"
+          - "crítica"
 
 
 jobs:
