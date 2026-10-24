@@ -11,6 +11,6 @@ Estos son los planes para destruir el mundo:
 6. Difundir propaganda y desinformación para sembrar el miedo y la desconfianza entre las naciones, debilitando la cooperación internacional.
 
 
-## plan de escape
+## Plan de escape
 
 - Vamos a crear un refugio subterraneo seguro para nosotros y nuestros aliados, equipados con suministros sufucientes para sobrevivir durantes anos.

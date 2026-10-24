@@ -8,7 +8,7 @@ el objectivo es congelar la ciudad de metropolis para detener el tiempo y preser
 2. **Identificacion de areas criticas**
 3. **Activacion del dispositivo de congelacion**
 
-## plan de escape
+## Plan de escape
 
 - En caso de que el proceso de congelacion falle o se presente emergencia
 
