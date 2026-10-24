@@ -1,0 +1,27 @@
+
+name: Comunicador de la region
+
+on:
+  workflow_dispatch:
+    inputs:
+      villano:
+        description: "que villano envia el mensaje?"
+        required: true
+        type: choice
+        options:
+          - "Joker"
+          - "Lex Luthor"
+          - "Darth Vader"
+          
+
+
+jobs:
+  tramitir-mensajes:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+      
+  
+
+  
