@@ -17,3 +17,7 @@ Spiderman es un superheroe ficticio creado por el escritor stan lee
 
 - Spiderman 1
 - Spiderman 2
+
+## Estrategia recomendada
+
+Se recomienda centrarse en mejorar la agilidad y la fuerza del personaje 
